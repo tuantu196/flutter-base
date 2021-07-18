@@ -1,0 +1,18 @@
+include: package:flutter_lints/flutter.yaml
+linter:
+  rules:
+    #Error Rules
+    - always_use_package_imports
+    - avoid_dynamic_calls
+    - avoid_empty_else
+    - avoid_print
+    - avoid_relative_lib_imports
+    - avoid_returning_null_for_future
+    - avoid_types_as_parameter_names
+    - cancel_subscriptions
+    - close_sinks
+    - control_flow_in_finally
+    - empty_statements
+    - hash_and_equals
+    - prefer_relative_imports
+    -
